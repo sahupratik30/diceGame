@@ -4,13 +4,16 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Added Stylesheet link -->
     <link rel="stylesheet" href="style.css" />
     <title>Dice Game</title>
   </head>
   <body>
     <div class="main_div">
+      <!--Main game content start-->
       <div class="center_div">
-        <h1>Click the button to play</h1>
+        <h1 id="status">Click the button to play</h1>
+        <!-- Dice part start -->
         <div class="dice_div">
           <div class="player1">
             <h3>Player 1</h3>
@@ -21,10 +24,14 @@
             <img src="images/dice6.png" alt="dice" id="player2dice" />
           </div>
         </div>
+        <!-- Dice part end -->
         <div class="button_div">
-          <button class="btn">Roll Dice</button>
+          <button class="btn" id="button">Roll Dice</button>
         </div>
       </div>
+      <!--Main game content end-->
     </div>
+    <!-- Added script part -->
+    <script src="app.js"></script>
   </body>
 </html>
