@@ -21,3 +21,7 @@ A basic dice game for two players.
 ![Screenshot](https://user-images.githubusercontent.com/80754608/122636377-9a14de80-d106-11eb-92bf-b316f97cc43f.png)
 ![Screenshot](https://user-images.githubusercontent.com/80754608/122636383-a4cf7380-d106-11eb-8d10-b3374046ea90.png)
 ![Screenshot](https://user-images.githubusercontent.com/80754608/122636399-b3b62600-d106-11eb-8432-92ab39b8490a.png)
+
+## Video Reference
+[Video](https://user-images.githubusercontent.com/80754608/122636694-2d9adf00-d108-11eb-8d23-e68af51b081e.mp4)
+
