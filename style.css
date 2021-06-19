@@ -66,3 +66,45 @@ button {
 button:hover {
   opacity: 0.8;
 }
+@media screen and (max-width: 768px) {
+  .center_div h1 {
+    font-size: 30px;
+  }
+  .center_div h3 {
+    font-size: 20px;
+  }
+  .center_div .dice_div img {
+    width: 200px;
+    height: 200px;
+  }
+}
+@media screen and (max-width: 500px) {
+  .center_div h1 {
+    font-size: 14px;
+  }
+  .center_div h3 {
+    font-size: 10px;
+  }
+  .center_div .dice_div img {
+    width: 100px;
+    height: 100px;
+  }
+  button {
+    font-size: 10px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .center_div h1 {
+    font-size: 12px;
+  }
+  .center_div h3 {
+    font-size: 8px;
+  }
+  .center_div .dice_div img {
+    width: 80px;
+    height: 80px;
+  }
+  button {
+    font-size: 10px;
+  }
+}
