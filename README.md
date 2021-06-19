@@ -15,3 +15,9 @@ A basic dice game for two players.
  - Make changes
  - Generate a pull request
 ```
+
+## Screenshots
+![Screenshot](https://user-images.githubusercontent.com/80754608/122636361-88333b80-d106-11eb-9677-95e5708277aa.png)
+![Screenshot](https://user-images.githubusercontent.com/80754608/122636377-9a14de80-d106-11eb-92bf-b316f97cc43f.png)
+![Screenshot](https://user-images.githubusercontent.com/80754608/122636383-a4cf7380-d106-11eb-8d10-b3374046ea90.png)
+![Screenshot](https://user-images.githubusercontent.com/80754608/122636399-b3b62600-d106-11eb-8432-92ab39b8490a.png)
